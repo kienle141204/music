@@ -2,44 +2,44 @@ let allMusic = [
   {
     name: "Ta và Nàng ",
     artist: "Đen ft.JGKiD",
-    img: "Ta và Nàng",
+    img: "ta",
     src: "abc"
   },
  
   {
     name: "See Tình",
     artist: "Hoàng Thùy Linh",
-    img: "See-Tinh",
+    img: "see",
     src: "songs_See-Tinh"
   },
   {
-    name: "Tan ka ka a k a ",
-    artist: "Huy Vạc",
-    img: "ChiMuonBenEmLucNay",
+    name: "Tan ka ka",
+    artist: "Đen và đồng bọn",
+    img: "tan",
     src: "Tan ka aka"
   },
   {
-    name: "Hồng Nhan",
-    artist: "Jack",
-    img: "Hong-Nhan-Jack",
-    src: "Hong-Nhan-Jack"
+    name: "Dancing in MY room",
+    artist: "347aidan",
+    img: "dan",
+    src: "DANCING IN MY ROOM"
   },
   {
-    name: "Chỉ Muốn Bên Em Thật Gần",
-    artist: "YLinh,Xám",
-    img: "Chi-Muon-Ben-Em-That-Gan",
-    src: "Chi-Muon-Ben-Em-That-Gan"
+    name: "Như Anh Mơ",
+    artist: "PC",
+    img: "nhuanhmo",
+    src: "Như Anh Mơ"
   },
   {
-    name: "Em Là Nhất",
-    artist: "ssss",
-    img: "Em-La-Nhat",
-    src: "Em-La-Nhat"
+    name: "25",
+    artist: "Nhiều người",
+    img: "25",
+    src: "25"
   },
   {
-    name: "Vì anh là gió",
-    artist: "Lilk",
-    img: "ViAnhLaGio-LilK-4766315",
-    src: "ViAnhLaGio-LilK-4766315"
+    name: "Reeves",
+    artist: "MAMBO , HIEU THU HAI ...",
+    img: "ree",
+    src: "REEVES"
   },
 ];
