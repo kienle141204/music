@@ -1,28 +1,28 @@
 let allMusic = [
   {
-    name: "Ta và Nàng ",
-    artist: "Đen ft.JGKiD",
-    img: "ta",
-    src: "abc"
+    name: "=",
+    artist: "Hồng Thanh,Mie",
+    img: "Dam-Cuoi-Nha",
+    src: "Dam-cuoi-nha"
   },
  
   {
     name: "See Tình",
     artist: "Hoàng Thùy Linh",
-    img: "see",
+    img: "see-tinh",
     src: "songs_See-Tinh"
   },
   {
-    name: "Tan ka ka",
-    artist: "Đen và đồng bọn",
-    img: "tan",
-    src: "Tan ka aka"
+    name: "Để Quên",
+    artist: "Ngọt",
+    img: "",
+    src: "dequen"
   },
   {
-    name: "Dancing in MY room",
-    artist: "347aidan",
-    img: "dan",
-    src: "DANCING IN MY ROOM"
+    name: "nangdalammaemthemhong",
+    artist: ":))knho",
+    img: "bg",
+    src: "nangdalammaemthemhong"
   },
   {
     name: "Như Anh Mơ",
@@ -31,15 +31,15 @@ let allMusic = [
     src: "Như Anh Mơ"
   },
   {
-    name: "25",
-    artist: "Nhiều người",
-    img: "25",
-    src: "25"
+    name: "Tan ka ka ",
+    artist: "Đen cùng đồng bọn",
+    img: "ta",
+    src: "Tan ka aka"
   },
   {
-    name: "Reeves",
-    artist: "MAMBO , HIEU THU HAI ...",
-    img: "ree",
-    src: "REEVES"
+    name: "Từ ngày em đến",
+    artist: "Dalab",
+    img: "25",
+    src: "tungayemden"
   },
 ];
