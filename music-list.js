@@ -1,18 +1,13 @@
 let
 allMusic = [
     {
-        name: "=",
-        artist: "Hồng Thanh,Mie",
-        img: "Dam-Cuoi-Nha",
-        src: "Dam-cuoi-nha"
+        name: "Bị Lỗi :))",
+        artist: "",
+        img: "nen",
+        src: "nen"
     },
 
-    {
-        name: "See Tình",
-        artist: "Hoàng Thùy Linh",
-        img: "seetinh",
-        src: "seetinh"
-    },
+    
     {
         name: "Để Quên",
         artist: "Ngọt",
@@ -55,10 +50,29 @@ allMusic = [
       img: "reeves",
       src: "reeves"
     },
+    
     {
-      name: "25",
-      artist: "Nhiều người",
-      img: "25",
-      src: "25"
+      name: "Mean It",
+      artist: "Lauv & LANY",
+      img: "",
+      src: "meanit"
+    },
+    {
+        name: "comethru",
+        artist: "Jeremy Zucker",
+        img: "comethru",
+        src: "comethru"
+    },
+    {
+        name: "Heat Waves",
+        artist: "Glass Animals",
+        img: "heatwaves",
+        src: "heatwaves"
+    },
+    {
+        name: "Golden Hour",
+        artist: "JVKE",
+        img: "goldenhour",
+        src: "goldenhour"
     },
 ];
