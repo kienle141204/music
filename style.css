@@ -11,11 +11,11 @@
 }
 :root{
   --pink: #74a5ff;
-  --violet: #9f6ea3;
+  --violet: #796ea3;
   --lightblack: #515C6F;
   --white: #ffffff;
   --darkwhite: #cecaca;
-  --pinkshadow: #ffcbdd;
+  --pinkshadow: #cbdfff;
   --lightbshadow: rgba(0,0,0,0.15);
 }
 body{
@@ -24,7 +24,7 @@ body{
   justify-content: center;
   min-height: 100vh;
   background-size:100%;
-  background-image: url("./images/bg.jpg");
+  background-image: url("./images/background.jpg");
 }
 .wrapper{
   width: 380px;
@@ -32,7 +32,7 @@ body{
   overflow: hidden;
   position: relative;
   border-radius: 15px;
-  background: var(--white);
+  background-image: url("./images/bg.jpg");
   box-shadow: 0px 6px 15px var(--lightbshadow);
 }
 .wrapper i{
